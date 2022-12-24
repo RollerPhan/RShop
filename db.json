@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "GiaHu",
+      "price": 10,
+      "image": "imgur.com/F9SBcPs.png"
+    },
+    {
+      "id": 2,
+      "name": "KQ",
+      "price": 20,
+      "image": "imgur.com/2iOOuap.png"
+    }
+  ]
+}
